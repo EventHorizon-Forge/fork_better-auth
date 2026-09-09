@@ -27,7 +27,7 @@
     "@types/fs-extra": "^11.0.4",
     "typescript": "catalog:",
     "unbuild": "catalog:",
-    "vitest": "^1.6.0"
+    "vitest": "^4.1.11"
   },
   "dependencies": {
     "@babel/preset-react": "^7.26.3",
